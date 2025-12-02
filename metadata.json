@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gerador de Comprovante Pix",
+  "description": "Uma aplicação web React para gerar e visualizar comprovantes Pix usando modelos NuBank e PicPay.",
+  "requestFramePermissions": []
+}
